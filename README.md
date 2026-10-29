@@ -21,3 +21,5 @@
 | [utiltoolApp](https://github.com/liu6x6/utiltoolApp) | Apple 平台工具集 | Swift | 一系列实用的开发小工具。 |
 | [MarkdownApp](https://github.com/liu6x6/MarkdownApp) | Apple 平台 Markdown 工具 | Swift | Markdown 相关工具项目。 |
 | [iosplayer](https://github.com/liu6x6/iosplayer) | iOS VNC view | win/mac/linux |使用 WDA-Runner 获取 iOS 设备的界面视频流  |
+| [ProvisionQL](https://github.com/liu6x6/ProvisionQL) | Mac 预览扩展 |Mac extension|在原来作者的基础上扩展了 zip/apk/app/jar 等 |
+
