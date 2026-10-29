@@ -1,6 +1,6 @@
 # xiaolong
 
-专注于 Apple 平台与开发效率工具的 开发者。
+专注于 AI / Apple 平台与开发效率工具的 开发者。
 
 ## App list
 
